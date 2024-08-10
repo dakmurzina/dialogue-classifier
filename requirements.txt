@@ -1,0 +1,20 @@
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl#sha256=0964370218b7e1672a30ac50d72cdc6b16f7c867496f1d60925691188f4d2510
+keras==2.12.0
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+nltk==3.8.1
+numpy==1.22.4
+pandas==1.5.3
+regex==2022.10.31
+scikit-image==0.19.3
+scikit-learn==1.2.2
+scipy==1.10.1
+seaborn==0.12.2
+sklearn-pandas==2.2.0
+smart-open==6.3.0
+spacy==3.5.2
+spacy-legacy==3.0.12
+spacy-loggers==1.0.4
+tensorflow==2.12.0
+torch @ https://download.pytorch.org/whl/cu118/torch-2.0.1%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=a7a49d459bf4862f64f7bc1a68beccf8881c2fa9f3e0569608e16ba6f85ebf7b
+torchvision @ https://download.pytorch.org/whl/cu118/torchvision-0.15.2%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=19ca4ab5d6179bbe53cff79df1a855ee6533c2861ddc7389f68349d8b9f8302a
